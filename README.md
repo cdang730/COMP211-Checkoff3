@@ -6,3 +6,4 @@ I explored simple examples of encryptions using XOR. Also, I explore the possibi
 
 The most interesting discoveries is that a wrong key can decrypt to a wrong message and XOR encryption is popular in nowadays encryption methods. It's interesting to know that the XOR encryption is actually very secure even it is very simple to implement. 
 
+Slides: https://docs.google.com/presentation/d/13emIDv9enDMwnYqbfN0RybkDqCNmLo-xUiqJTJfioU8/edit?usp=sharing 
